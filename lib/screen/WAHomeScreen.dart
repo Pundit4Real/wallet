@@ -49,7 +49,7 @@ class WAHomeScreenState extends State<WAHomeScreen> {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                50.height,
+              45.height,
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
